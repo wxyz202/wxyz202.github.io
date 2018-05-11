@@ -1,3 +1,3 @@
-# wxyz202.github.io
+# wxyz.app
 
 Just for test
